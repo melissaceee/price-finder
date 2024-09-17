@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+.App {
+  padding: 0;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  color: ghostwhite;
+  padding: 15px;
+  font-size: 2em;
+  width: 100%;
+  margin-top: 0;
+}
+
+.nav a, .nav a:visited {
+  color: white;
+  text-decoration: none;
+  margin: auto;
+}
